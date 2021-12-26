@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\OneDrive\\Desktop"
+		},
+		{
+			"path": "..\\..\\OneDrive\\Desktop\\c lab"
+		},
+		{
+			"path": "..\\..\\OneDrive\\Desktop\\python"
+		},
+		{
+			"path": "extra"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"vector": "cpp",
+			"random": "cpp",
+			"limits": "cpp"
+		}
+	}
+}
